@@ -1,0 +1,46 @@
+D:\Projects\Software\RevelTest\out\artifacts\RevelTest_jar>java -jar RevelTest.jar
+
+Outreach report for Minneapolis, US:
+
+Date/Time: 2019/11/20 00:00     Temp(F): 54.9   Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/20 03:00     Temp(F): 65.0   Conditions: Rain        Outreach: Phone call
+Date/Time: 2019/11/20 06:00     Temp(F): 75.1   Conditions: Rain        Outreach: Phone call
+Date/Time: 2019/11/20 09:00     Temp(F): 65.0   Conditions: Clear       Outreach: Email
+Date/Time: 2019/11/20 12:00     Temp(F): 75.0   Conditions: Clouds      Outreach: Email
+Date/Time: 2019/11/20 15:00     Temp(F): 75.1   Conditions: Clear       Outreach: Text message
+Date/Time: 2019/11/20 18:00     Temp(F): 75.1   Conditions: Clouds      Outreach: Your discretion
+Date/Time: 2019/11/20 21:00     Temp(F): 43.34  Conditions: Clouds      Outreach: Phone call
+Date/Time: 2019/11/21 00:00     Temp(F): 40.17  Conditions: Clouds      Outreach: Phone call
+Date/Time: 2019/11/21 03:00     Temp(F): 40.68  Conditions: Clouds      Outreach: Phone call
+Date/Time: 2019/11/21 06:00     Temp(F): 39.88  Conditions: Rain        Outreach: Phone call
+Date/Time: 2019/11/21 09:00     Temp(F): 39.38  Conditions: Rain        Outreach: Phone call
+Date/Time: 2019/11/21 12:00     Temp(F): 38.53  Conditions: Rain        Outreach: Phone call
+Date/Time: 2019/11/21 15:00     Temp(F): 32.81  Conditions: Snow        Outreach: Phone call
+Date/Time: 2019/11/21 18:00     Temp(F): 31.73  Conditions: Snow        Outreach: Phone call
+Date/Time: 2019/11/21 21:00     Temp(F): 29.55  Conditions: Snow        Outreach: Phone call
+Date/Time: 2019/11/22 00:00     Temp(F): 25.63  Conditions: Clouds      Outreach: Phone call
+Date/Time: 2019/11/22 03:00     Temp(F): 23.49  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/22 06:00     Temp(F): 22.62  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/22 09:00     Temp(F): 22.24  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/22 12:00     Temp(F): 22.05  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/22 15:00     Temp(F): 24.58  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/22 18:00     Temp(F): 32.34  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/22 21:00     Temp(F): 34.3   Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/23 00:00     Temp(F): 29.59  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/23 03:00     Temp(F): 29.1   Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/23 06:00     Temp(F): 29.48  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/23 09:00     Temp(F): 29.08  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/23 12:00     Temp(F): 28.62  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/23 15:00     Temp(F): 30.38  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/23 18:00     Temp(F): 35.55  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/23 21:00     Temp(F): 36.39  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/24 00:00     Temp(F): 31.6   Conditions: Clouds      Outreach: Phone call
+Date/Time: 2019/11/24 03:00     Temp(F): 30.34  Conditions: Clouds      Outreach: Phone call
+Date/Time: 2019/11/24 06:00     Temp(F): 29.86  Conditions: Clouds      Outreach: Phone call
+Date/Time: 2019/11/24 09:00     Temp(F): 29.82  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/24 12:00     Temp(F): 30.02  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/24 15:00     Temp(F): 33.24  Conditions: Clear       Outreach: Phone call
+Date/Time: 2019/11/24 18:00     Temp(F): 39.65  Conditions: Clouds      Outreach: Phone call
+Date/Time: 2019/11/24 21:00     Temp(F): 40.95  Conditions: Clouds      Outreach: Phone call
+
+D:\Projects\Software\RevelTest\out\artifacts\RevelTest_jar>
